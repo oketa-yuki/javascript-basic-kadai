@@ -1,8 +1,8 @@
-let weight;
-weight = 68;
 
-let  hight;
-hight = 1.7;
+const weight = 68;
+
+
+const hight = 1.7;
 
 
 const bmi = (weight/(hight*hight));
